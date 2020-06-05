@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Learn_CSharp_FPT
+namespace Learn_CSharp_FPT.Book.Session1
 {
-    class Program
+    public static class Run
     {
-        static void Main(string[] args)
-        {
-          
-        }
 
-     
+    }
+}

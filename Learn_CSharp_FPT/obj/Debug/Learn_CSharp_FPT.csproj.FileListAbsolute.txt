@@ -1,0 +1,2 @@
+E:\Learn\SEM2\Learn_CSharp_FPT\Learn_CSharp_FPT\obj\Debug\Learn_CSharp_FPT.csprojAssemblyReference.cache
+E:\Learn\SEM2\Learn_CSharp_FPT\Learn_CSharp_FPT\obj\Debug\Learn_CSharp_FPT.csproj.CoreCompileInputs.cache
