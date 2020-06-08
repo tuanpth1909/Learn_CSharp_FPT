@@ -10,7 +10,18 @@ namespace Learn_CSharp_FPT
     {
         static void Main(string[] args)
         {
-          
-        }
+            #region Book
 
-     
+            #endregion
+
+            #region CodeLean
+            Book.Session6.Run.Test();
+            Book.Session_Objectives.Run.Test();
+            Console.ReadKey();
+            #endregion
+        }
+    }
+}
+
+
+

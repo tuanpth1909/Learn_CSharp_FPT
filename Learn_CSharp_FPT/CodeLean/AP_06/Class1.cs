@@ -15,18 +15,18 @@ namespace Learn_CSharp_FPT.CodeLean.AP_06
         }
         static void ex1()
         {
-         public string Make { get; set; }
-        public string Model { get; set; }
-        public void MakeCappuccino()
-        {
-            //Method logic goes here
-        }
-        public void MakeEspresso()
-        {
-            //Method logic goes here
-        }
-        public event OutOfBeansHandler OutOfBeans;
+        // public string Make { get; set; }
+        //public string Model { get; set; }
+        //public void MakeCappuccino()
+        //{
+        //    //Method logic goes here
+        //}
+        //public void MakeEspresso()
+        //{
+        //    //Method logic goes here
+        //}
+        //public event OutOfBeansHandler OutOfBeans;
           }
        }
     }
-}
+

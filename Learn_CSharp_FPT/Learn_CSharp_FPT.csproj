@@ -44,7 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Book\Session1\Run.cs" />
+    <Compile Include="Book\Session6\Book.cs" />
+    <Compile Include="Book\Session6\Product.cs" />
+    <Compile Include="Book\Session6\Student.cs" />
+    <Compile Include="Book\Session6\Run.cs" />
+    <Compile Include="Book\Session6\Student01.cs" />
+    <Compile Include="Book\Session_Objectives\Car.cs" />
+    <Compile Include="Book\Session_Objectives\ListBox.cs" />
+    <Compile Include="Book\Session_Objectives\Run.cs" />
+    <Compile Include="Book\Session_Objectives\Window.cs" />
     <Compile Include="CodeLean\AP_03\Class1.cs" />
+    <Compile Include="CodeLean\AP_03\Run.cs" />
     <Compile Include="CodeLean\AP_04\Class1.cs" />
     <Compile Include="CodeLean\Ap_05\Class1.cs" />
     <Compile Include="CodeLean\AP_06\Class1.cs" />
