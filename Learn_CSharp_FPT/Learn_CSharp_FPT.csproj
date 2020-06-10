@@ -49,7 +49,14 @@
     <Compile Include="Book\Session6\Student.cs" />
     <Compile Include="Book\Session6\Run.cs" />
     <Compile Include="Book\Session6\Student01.cs" />
+    <Compile Include="Book\Session7\animals.cs" />
+    <Compile Include="Book\Session7\Employee.cs" />
+    <Compile Include="Book\Session7\newAnimals.cs" />
+    <Compile Include="Book\Session7\Run.cs" />
+    <Compile Include="Book\Session7\Animal.cs" />
     <Compile Include="Book\Session_Objectives\Car.cs" />
+    <Compile Include="Book\Session_Objectives\GeometricObject.cs" />
+    <Compile Include="Book\Session_Objectives\IndexerExample.cs" />
     <Compile Include="Book\Session_Objectives\ListBox.cs" />
     <Compile Include="Book\Session_Objectives\Run.cs" />
     <Compile Include="Book\Session_Objectives\Window.cs" />
