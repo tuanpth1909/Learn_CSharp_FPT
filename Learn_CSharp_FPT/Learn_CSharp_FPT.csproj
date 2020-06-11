@@ -54,6 +54,15 @@
     <Compile Include="Book\Session7\newAnimals.cs" />
     <Compile Include="Book\Session7\Run.cs" />
     <Compile Include="Book\Session7\Animal.cs" />
+    <Compile Include="Book\Session8\Animal.cs" />
+    <Compile Include="Book\Session8\Catfish.cs" />
+    <Compile Include="Book\Session8\Circle.cs" />
+    <Compile Include="Book\Session8\Dog.cs" />
+    <Compile Include="Book\Session8\dogs.cs" />
+    <Compile Include="Book\Session8\Employee.cs" />
+    <Compile Include="Book\Session8\Rectangle.cs" />
+    <Compile Include="Book\Session8\Run.cs" />
+    <Compile Include="Book\Session8\Crocodile.cs" />
     <Compile Include="Book\Session_Objectives\Car.cs" />
     <Compile Include="Book\Session_Objectives\GeometricObject.cs" />
     <Compile Include="Book\Session_Objectives\IndexerExample.cs" />
@@ -65,6 +74,10 @@
     <Compile Include="CodeLean\AP_04\Class1.cs" />
     <Compile Include="CodeLean\Ap_05\Class1.cs" />
     <Compile Include="CodeLean\AP_06\Class1.cs" />
+    <Compile Include="Example\Run.cs" />
+    <Compile Include="Lab\Atom.cs" />
+    <Compile Include="Lab\Employee.cs" />
+    <Compile Include="Lab\Run.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

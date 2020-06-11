@@ -11,7 +11,8 @@ namespace Learn_CSharp_FPT
         static void Main(string[] args)
         {
             #region Book
-            Book.Session_Objectives.Run.Test();
+            //Book.Session_Objectives.Run.Test();
+            Book.Session8.Run.Test();
             Console.ReadKey();
             #endregion
 
@@ -20,6 +21,14 @@ namespace Learn_CSharp_FPT
             //book.session_objectives.run.test();
             //console.readkey();
             //#endregion
+
+            //# region Example
+            //Example.Run.Test1();
+            // #endregion
+
+            #region Lab
+            Lab.Run.Dislpay();
+            #endregion
         }
     }
 }
