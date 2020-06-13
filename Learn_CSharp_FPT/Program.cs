@@ -10,11 +10,12 @@ namespace Learn_CSharp_FPT
     {
         static void Main(string[] args)
         {
-            #region Book
-            //Book.Session_Objectives.Run.Test();
-            Book.Session8.Run.Test();
-            Console.ReadKey();
-            #endregion
+            //#region Book
+            ////Book.Session_Objectives.Run.Test();
+            //Book.Session8.Run.Test();
+            Book.Session9.Run.Display();
+            //Console.ReadKey();
+            //#endregion
 
             //#region codelean
             //book.session6.run.test();
@@ -22,13 +23,17 @@ namespace Learn_CSharp_FPT
             //console.readkey();
             //#endregion
 
-            //# region Example
-            //Example.Run.Test1();
-            // #endregion
-
-            #region Lab
-            Lab.Run.Dislpay();
+            # region Example
+            //Example.Run.Test3();
+            //Example.Rectangle.Tinh();
+            Example.Square.HinhVuong();
             #endregion
+
+            //#region Lab
+            //Lab.Run.Dislpay();
+            //#endregion
+
+
         }
     }
 }

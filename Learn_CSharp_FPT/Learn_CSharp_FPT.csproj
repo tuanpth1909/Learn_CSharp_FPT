@@ -63,6 +63,8 @@
     <Compile Include="Book\Session8\Rectangle.cs" />
     <Compile Include="Book\Session8\Run.cs" />
     <Compile Include="Book\Session8\Crocodile.cs" />
+    <Compile Include="Book\Session9\Employee.cs" />
+    <Compile Include="Book\Session9\Run.cs" />
     <Compile Include="Book\Session_Objectives\Car.cs" />
     <Compile Include="Book\Session_Objectives\GeometricObject.cs" />
     <Compile Include="Book\Session_Objectives\IndexerExample.cs" />
@@ -74,7 +76,16 @@
     <Compile Include="CodeLean\AP_04\Class1.cs" />
     <Compile Include="CodeLean\Ap_05\Class1.cs" />
     <Compile Include="CodeLean\AP_06\Class1.cs" />
+    <Compile Include="Example\Apple.cs" />
+    <Compile Include="Example\Figure.cs" />
+    <Compile Include="Example\Fruit.cs" />
+    <Compile Include="Example\Orange.cs" />
+    <Compile Include="Example\Person.cs" />
+    <Compile Include="Example\Rectangle.cs" />
     <Compile Include="Example\Run.cs" />
+    <Compile Include="Example\Square.cs" />
+    <Compile Include="Example\Student.cs" />
+    <Compile Include="Example\Teacher.cs" />
     <Compile Include="Lab\Atom.cs" />
     <Compile Include="Lab\Employee.cs" />
     <Compile Include="Lab\Run.cs" />
