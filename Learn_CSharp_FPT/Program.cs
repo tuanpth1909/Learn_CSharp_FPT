@@ -13,7 +13,7 @@ namespace Learn_CSharp_FPT
             //#region Book
             ////Book.Session_Objectives.Run.Test();
             //Book.Session8.Run.Test();
-            Book.Session9.Run.Display();
+            // Book.Session9.Run.Display();
             //Console.ReadKey();
             //#endregion
 
@@ -23,10 +23,11 @@ namespace Learn_CSharp_FPT
             //console.readkey();
             //#endregion
 
-            # region Example
+            #region Example
             //Example.Run.Test3();
             //Example.Rectangle.Tinh();
-            Example.Square.HinhVuong();
+            //Example.Square.HinhVuong();
+            Example.Run.Test9();
             #endregion
 
             //#region Lab

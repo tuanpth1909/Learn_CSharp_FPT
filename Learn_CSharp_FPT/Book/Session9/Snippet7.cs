@@ -8,5 +8,48 @@ namespace Learn_CSharp_FPT.Book.Session9
 {
     class Snippet7
     {
+        string _empName;
+        int _empID;
+        float _salary;
+        public string EmpName
+        {
+            get
+            {
+                return _empName;
+            }
+            set
+            {
+                _empName = value;
+            }
+        }
+        public int EmpID
+        {
+            get
+            {
+                return _empID;
+            }
+            set
+            {
+                _empID = value;
+            }
+        }
+        public float Salary
+        {
+            get
+            {
+                return _salary;
+            }
+            set
+            {
+                if (value < 0)
+                {
+                    _salary = 0;
+                }
+                else
+                {
+                    _salary = value;
+                }
+            }
+        }
     }
 }
