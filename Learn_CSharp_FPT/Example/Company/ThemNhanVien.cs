@@ -36,7 +36,7 @@ namespace Learn_CSharp_FPT.Example.Company
             }
             set
             {
-                if() ;
+                gioiTinh = value;
             }
         }
         public string NgaySinh

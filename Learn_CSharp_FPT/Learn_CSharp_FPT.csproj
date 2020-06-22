@@ -84,8 +84,13 @@
     <Compile Include="CodeLean\AP_03\Class1.cs" />
     <Compile Include="CodeLean\AP_03\Run.cs" />
     <Compile Include="CodeLean\AP_04\Class1.cs" />
-    <Compile Include="CodeLean\Ap_05\Class1.cs" />
+    <Compile Include="CodeLean\AP_05\Class1.cs" />
     <Compile Include="CodeLean\AP_06\Class1.cs" />
+    <Compile Include="CodeLean\AP_10\Business.cs" />
+    <Compile Include="CodeLean\AP_10\Employee.cs" />
+    <Compile Include="CodeLean\AP_10\Technical.cs" />
+    <Compile Include="CodeLean\AP_11\Employee.cs" />
+    <Compile Include="CodeLean\AP_11\Technical.cs" />
     <Compile Include="Example\Apple.cs" />
     <Compile Include="Example\Company\ThemNhanVien.cs" />
     <Compile Include="Example\Figure.cs" />
@@ -114,6 +119,10 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="CodeLean\AP_15\" />
+    <Folder Include="CodeLean\AP_16\" />
+    <Folder Include="CodeLean\AP_17\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
