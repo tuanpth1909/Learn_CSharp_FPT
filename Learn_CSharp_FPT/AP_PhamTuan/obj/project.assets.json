@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\SEM2\\Learn_CSharp_FPT\\AP_PhamTuan\\AP_PhamTuan.csproj",
+      "projectUniqueName": "E:\\Learn\\SEM2\\Learn_CSharp_FPT\\Learn_CSharp_FPT\\AP_PhamTuan\\AP_PhamTuan.csproj",
       "projectName": "AP_PhamTuan",
-      "projectPath": "E:\\Learn\\SEM2\\Learn_CSharp_FPT\\AP_PhamTuan\\AP_PhamTuan.csproj",
+      "projectPath": "E:\\Learn\\SEM2\\Learn_CSharp_FPT\\Learn_CSharp_FPT\\AP_PhamTuan\\AP_PhamTuan.csproj",
       "packagesPath": "C:\\Users\\MyPC\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\SEM2\\Learn_CSharp_FPT\\AP_PhamTuan\\obj\\",
+      "outputPath": "E:\\Learn\\SEM2\\Learn_CSharp_FPT\\Learn_CSharp_FPT\\AP_PhamTuan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MyPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
